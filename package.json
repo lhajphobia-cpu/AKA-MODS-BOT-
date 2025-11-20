@@ -1,0 +1,21 @@
+{
+  "name": "discord-dm-bot",
+  "version": "1.0.0",
+  "description": "Discord bot to send DMs to server members",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["discord", "bot", "dm"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
+
